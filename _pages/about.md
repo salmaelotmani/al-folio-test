@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Building and Editing Your Own Website with AI
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Course website created with al-folio</p>
+    <p>Assignment: Building and Editing Your Own Website with AI</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Researcher and educator who builds resources and runs community workshops to help people learn new digital skills.
+This website was created for a course assignment focused on building and editing a website with AI. It uses the al-folio template as a starting point and was customized to match the goals of the activity.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bib[...] 
+The assignment follows a **use → modify → create** progression. I started with an existing template, adjusted it to fit the assignment requirements, and added new content beyond the original starter site. Throughout the process, I used GitHub Copilot as a coding assistant to help identify files, suggest edits, and troubleshoot issues.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones bel[...]
+This site documents the work completed for the assignment and demonstrates how AI tools can support web development, content editing, and problem solving.
